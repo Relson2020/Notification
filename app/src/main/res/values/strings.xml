@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="button">Notification</string>
+    <string name="snooze">SNOOZE</string>
+    <string name="reply">REPLY</string>
+    <string name="bigText">A basic notification usually includes a title, a line of text, and one or more actions the user can perform in response. To provide even more information, you can also create large, expandable notifications by applying one of several notification templates as described on this page.</string>
+</resources>
